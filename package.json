@@ -1,0 +1,19 @@
+{
+  "name": "reimagined-octo-barnacle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "./node_modules/.bin/totvstec release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriorc/reimagined-octo-barnacle.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogeriorc/reimagined-octo-barnacle/issues"
+  },
+  "homepage": "https://github.com/rogeriorc/reimagined-octo-barnacle#readme"
+}
