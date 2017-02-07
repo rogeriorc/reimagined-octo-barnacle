@@ -1,7 +1,7 @@
 {
   "name": "reimagined-octo-barnacle",
   "version": "1.0.0",
-  "description": "",
+  "description": "asdasda",
   "main": "index.js",
   "scripts": {
     "release": "./node_modules/.bin/totvstec release"
