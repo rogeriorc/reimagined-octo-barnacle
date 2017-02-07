@@ -1,6 +1,6 @@
 {
   "name": "reimagined-octo-barnacle",
-  "version": "1.0.1",
+  "version": "1.0.0-SNAPSHOT",
   "description": "",
   "main": "index.js",
   "scripts": {
